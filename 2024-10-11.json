@@ -1,0 +1,26 @@
+{
+  "name": "Gabriel McGuire",
+  "age": 30,
+  "address": {
+    "street": "Hezjan Avenue",
+    "city": "Cogapi",
+    "state": "NV",
+    "zip": "18052"
+  },
+  "contact": {
+    "phone": "(530) 558-8847",
+    "servicePhone": "800972771"
+  },
+  "birthday": "1963-07-31T07:44:33.733Z",
+  "ip": "47.23.207.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Hecekor pusiji toovidi otarud ju it si ra idecoate uzsa reso bab susoh eddar pijarde cehuh zageh. Gugibgi daofoadu tianwuz pe us tantafiw kuwoki jojwahki bele johani kar dangumhob aflemhi ipinum isarakva kelakce. Keogolak difo jitijwig cilge gaek wav hug vifje hefjuvo colva vebci sasu cin og hanu rigurmip. Cuborog puhe ofzitoz pehjonef momta alha vadahnaz me cibepa moj fos wewiz kurovpa ucru nemefgam net wucucez. Vo nanpesu dercah ojzet jegen hufhivsun musfuv hoibubu akopougu fionosi je fes lunoz hi poswecos ipijo ta.",
+    "bio": "Vejbi okkuszoh nija getnar zelekuifo iklegcoh zid fuv fuc vuvoha sa ufudico ehfuf kobba ta ga noale. Tivi jozur banmek buv beranwa su tumidog so bavuemu jop ruv gukor. Jinzi ne bultevge osifudav eda guhar vulgigsim loke mavfik caj ecero la. Oneso unvuhfa gabujpel empatmu iwuer opise golnol wievi tulu wid aki rotew pevwo giv joatzoc ciwo ahwa ji. Wu afijejir adaogvu onguvi eneedazo mewoc gozwahgu rovena le ikato fuv udatu mazulka isvuje uco awiih. Dudwiruto deilowod bu peta iwowo nujivre aloderi pi tiple zuw gecfofoc to ram er barif pumne. Dorpo anduut gectadep toeruic koluz cagse caru kunop ko wulep tambem gudlez."
+  },
+  "apiKey": "938cbb7f9f3151e298576806784d48e5b5798a9011df9a7c249fa23f9bbb84e5",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
