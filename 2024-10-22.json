@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Hayes",
+  "age": 35,
+  "address": {
+    "street": "Dolcop Parkway",
+    "city": "Jojarku",
+    "state": "MI",
+    "zip": "61516"
+  },
+  "contact": {
+    "phone": "(512) 368-4629",
+    "servicePhone": "800317827"
+  },
+  "birthday": "1995-12-01T06:11:03.388Z",
+  "ip": "54.95.153.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Pag cezef taw zobzeshi hule pus ji kume jip emoamwe hozire tocko. Liggine wevvize pehnuano ar vudta sel iv ti foibawen nere idluul nejje wucetecu om sa elziwve. Vawcorton ihniwoz mofho tiaboosa ino wojgelpib si epo jano cajjapi ono letim jalomsuv we egacu na totonak. Uwe ad asoat burnezin vot cesgirte ispus mepnafno si saroj en fapuv daj mi piivu. Aneopitu lib cumemak tu ohifisnog ope toes liradasa suk ipcok fijogwi dajwevgo tek. Towuuw viazuse zuama huhegeli fo sajepona atahivfeg vusope birrufe medejo icomozhi pog loztizos in farlok.",
+    "bio": "Mapbo gida du jiblunne mal cozil de bov mipzage li totzanip om rofbazo hesbeb ler ajsa tenta. Bisu ilhegle kagocur agefu ettib gurgegu jo ufaatamub jusmun wecug vehewze hol kumfi moc ze cur onakumi. Wuftu natfu hefvu adrofu ewvived wa ivhukobo igges boaswo uvaat wasohe buta. Muzez idaha wongeme do duzsuis milfazig oz usa ba lumciruc duf oniretot pe."
+  },
+  "apiKey": "fe89cd691a44b1bdec9e244429e4fa7f547d150fc32709cb49c00b39cea48a59",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
