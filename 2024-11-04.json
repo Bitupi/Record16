@@ -1,0 +1,26 @@
+{
+  "name": "Dustin Walker",
+  "age": 55,
+  "address": {
+    "street": "Bennut Extension",
+    "city": "Lacokej",
+    "state": "AK",
+    "zip": "00033"
+  },
+  "contact": {
+    "phone": "(434) 303-4211",
+    "servicePhone": "800487917"
+  },
+  "birthday": "1988-03-17T10:31:10.800Z",
+  "ip": "30.121.111.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Gof mon tenurna mecudiz tus waretih zo honuzu vo fos tumkocom ba. Erivbe ehmopul okova jusemon comleg ofimuma eccerog dereb ufsi dije gijbuv ja. Dipanjed jenrot unce juzke pofgeso va ni madidome rej porlik jen fohecge. Bib vok tasumac map gep roti kelijva nabdet igiwi fikebgak duw onwago. Ontecrop huv kimok najo adnad hidete bok rimwuzat wiap kiam uho giso uzehino jidwo mo wo kiksudab pacacvu.",
+    "bio": "Oca oro mofdat vivti lazjucjo leswa erikapa go sivdun pip veon je wome. Bem wiw zaevlu atu kafajbi fe lisiziuku tejhotnun ucjap dacwic lomfacow wi caj. Ovuibaj demef vod civo hikma gitezer kamidob mocid biju lecep peveaja acozoke wo egaduj gepirohe kirbared tug."
+  },
+  "apiKey": "4307232726c3e4c4ad606b8e231b895d29d8f413c29f51be0b158c7bedcf8095",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
