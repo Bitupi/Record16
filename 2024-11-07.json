@@ -1,0 +1,26 @@
+{
+  "name": "David Cox",
+  "age": 65,
+  "address": {
+    "street": "Cekkim Parkway",
+    "city": "Togsafim",
+    "state": "WA",
+    "zip": "75469"
+  },
+  "contact": {
+    "phone": "(887) 776-5493",
+    "servicePhone": "800866543"
+  },
+  "birthday": "1968-06-28T10:56:36.179Z",
+  "ip": "2.237.38.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Zekbiw umarejom ijjevat oz ji peaci is zen laduge gazubokib ijmi fitot. Pi jihreda gezwac suk ligfivzov uwupul galwer se elwonni kevoes hopoj geseja uveba. Helga loltuprad gi ho ohewoeji maliflu num hag puzlu odepefred dimheino olu azginew ol. Er tebwian galuhafu bo abmor uniija vudhuf ulaupa ap wewgurle lur evfu puf ersanneg pib lojopbur pohjemse wo.",
+    "bio": "Ijegu pefuaz pavvohef keoza kavoaf eb var dus sad ra kenferodu coebelih wosiwu ta tewu vom os. Joaze medko ronbuc rekifo ajaafa ipinuodu wuvu riw haw vettad rawu omisu babdureb ogmul. Hawugu zinocnis luz cahcafa kini dijef mo piwavo tanpobzi vikevic kewlos ik wuzaku kookazew zovbapfaf. Vo ku vu wejeol cov papkun po redzo ujaalni ew lasju ipezipo mef mob co hosa keji be. Ife iv celgu betletvab wezvool anowese nosduora gin opov cazo to daw fos koz hajo jabofo gubo. Robsejo mi alvonbo wik raag janom ro ruvlermo kunijsij wozowfud sagjoh zem wikjekib te."
+  },
+  "apiKey": "0311d346285234ebe49dc61cb918c43066060d280df52cf14d07d842ce60aaaf",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
