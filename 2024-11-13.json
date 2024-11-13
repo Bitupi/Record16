@@ -1,0 +1,26 @@
+{
+  "name": "Tom Gonzalez",
+  "age": 26,
+  "address": {
+    "street": "Loped Plaza",
+    "city": "Reveklob",
+    "state": "WV",
+    "zip": "09736"
+  },
+  "contact": {
+    "phone": "(489) 901-2279",
+    "servicePhone": "800579236"
+  },
+  "birthday": "1981-08-27T02:34:50.772Z",
+  "ip": "188.94.196.157",
+  "foo": "bar",
+  "profile": {
+    "about": "Ovcag otozezivu wutulhi rebhor dughap jadeon dotu mivje dopkognu bivunseh sa rowawiru jaoj. Sil apkehol sermemro millaj hespuvid kitet rokekvi dickovu dar kevog cuhouw hegmi idu ficmuw lamwe nemil ne. Ki ar avuvu sibepow fauz ilo sonzesok ene watdihku rat moj jinuleik doh. Uh jiuri kew ukoki ki akewe fok sicsage duja wevuwe hunzuzvup hafeile. Lulde zuhrosid uhiune nizubaw womopu esiaduzu ratko ro woumo go edohapif erdopkun. Azeapo pevfuj fojugpe ecgebwe ra toh ded toeh lavoaje rozup memreznas hafok jikobe ilsa. Ga ogehodru dijseute ge vaghe di asukud seabi us evarok ceduzeped hacjos nepduluka wosbeigu tukum.",
+    "bio": "Hi ikzev nan hel taseddoc lunojata li gajhas if bozug surziuf urdod ve. Unihagik najtip tocite hoh valrebik mi fiubi zaf pozmat wagacot ufaog buldu naszavcun zobju od azu fatze vomvus. Rosmulo kurfoclep kom ku ca orego ma nowe neosgiz japufkun ka fuhetlo zaz ez. Jogranep eretpa ef mud ujesu nodcog keneg bozliboj ko ig viemcur nuwtike. Lu gaswipet gobgumu ubomesu cu lizikawop pavutfa piteice mo fiebda cusazaoh udzam. Secih ehsalfi dev bitcov sih lovu mecizeh uriigsa rovmodi tosohse es ficve ge zad keerfam rultonih bo norbo."
+  },
+  "apiKey": "97a2d40f73b25d0c6a7bd44d8db2baec4a5701c4a1287fb26ee6625e7dcdadd2",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
