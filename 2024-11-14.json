@@ -1,0 +1,26 @@
+{
+  "name": "Mina Jacobs",
+  "age": 55,
+  "address": {
+    "street": "Pitiz River",
+    "city": "Pokafmoh",
+    "state": "DE",
+    "zip": "20040"
+  },
+  "contact": {
+    "phone": "(889) 611-3193",
+    "servicePhone": "800564832"
+  },
+  "birthday": "2004-07-25T02:33:59.282Z",
+  "ip": "118.199.48.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Egu len hoid ru zek evho lorizi zucouki wuzrike ubjo rewmus pophuwite zew famlupru. Reru si onbah eri sahomke lida gejo lunkej di hihuj imso lonmegnup juz atewan. Wuge necifebe hap ed jo uk conafbuz te womsamere povzaz hud fotme desnuh copo eduna zu tes.",
+    "bio": "Daszatu gacwoav otoniv wawtube an izzeubo va helocir cabicohi wa nezifec uwse ivofalo. Regi ub pa vokjukal tuefu ba uvahu zesvehar ruvmec huleh subiglod widzi we sukdup. Tuzlum vu velav dameumi poma vidhipuh emuvur hi nol uhebu ecu uv muegzul rugpes."
+  },
+  "apiKey": "eedac9b7991d558bc65b2c9bb4b827c02f0b4f4b182f5e99b21f88273f5781fa",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
