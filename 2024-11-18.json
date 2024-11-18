@@ -1,0 +1,26 @@
+{
+  "name": "Dean Robinson",
+  "age": 38,
+  "address": {
+    "street": "Anane Square",
+    "city": "Sutfewlom",
+    "state": "VT",
+    "zip": "88631"
+  },
+  "contact": {
+    "phone": "(939) 682-4393",
+    "servicePhone": "800922522"
+  },
+  "birthday": "1988-08-24T07:21:22.135Z",
+  "ip": "205.83.243.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Vacatgip rizjelaz pemuslo mobowuv tiuf iro waorapi biksavze oc reicu jup mat gokimacu ira jozdu mut enutiz biali. Tut hu veweko kin biwahah inva fo do umamis cokini ilga tebi toczibfe. Hap voize kamto nowvavad muvfof nawke mevu et ebzuw zar hifugiok ikopo ip taziwgi wab obatevha.",
+    "bio": "Omluwul kibtib seko gukabu caz marol fi ib du vezon sigop mumsib jugguj. Jopoatu ejguuge zuizu po tu viliwcot amunumaf cuzwub du puw vepuged nofbufgug cosu pemhopbuk pivmo. Edfiga fuw zelwum dusarimar jaol kefa edire le zud cusmib ciciza gesuvut emkug sohco len eb sivewcu masbah. On kifawecu rek bufkejoc gaphege mak av zaon ke los su esa nubazzu jiv jotos po taojaca."
+  },
+  "apiKey": "db9171d280a0166c61a441fe9084e3787f9f18be766c8987704d3cca5d92e4f3",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
